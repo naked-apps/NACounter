@@ -1,0 +1,6 @@
+h1. How to use
+
+# Copy all of the files into your project (You may want to customise the images to the look and feel of your app)
+# Include @NACounter.h@ in the controller you'd like to use this
+# Create a new counter using @initWithFrame@ and add to the current view
+# Update the counter with @updateCounter@, @incrementCounter@ and @decrementCounter@
